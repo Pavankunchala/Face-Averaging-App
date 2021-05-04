@@ -1,5 +1,5 @@
 opencv_python_headless==4.5.1.48
 numpy==1.19.5
 streamlit==0.79.0
-dlib==19.21.0
+dlib
 Pillow==8.2.0
