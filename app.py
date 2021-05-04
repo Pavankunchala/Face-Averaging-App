@@ -135,4 +135,20 @@ output = averager(names)
 
 st.image(output,caption ='Face Average')
 
+st.markdown('''
+          # About Author \n 
+             Hey this is ** Pavan Kunchala ** I hope you like the application \n
+             
+            I am looking for ** Collabration **,** Freelancing ** and  ** Job opportunities ** in the field of ** Deep Learning ** and 
+            ** Computer Vision **  if you are interested in my profile you can check out my resume from 
+            [here](https://drive.google.com/file/d/1Mj5IWmkkKajl8oSAPYtAL_GXUTAOwbXz/view?usp=sharing)\n
+            
+            If you're interested in collabrating you can mail me at ** pavankunchalapk@gmail.com ** \n
+            You can check out my ** Linkedin ** Profile from [here](https://www.linkedin.com/in/pavan-kumar-reddy-kunchala/) \n
+            You can check out my ** Github ** Profile from [here](https://github.com/Pavankunchala) \n
+            You can also check my technicals blogs in ** Medium ** from [here](https://pavankunchalapk.medium.com/) \n
+            If you are feeling generous you can buy me a cup of ** coffee ** from [here](https://www.buymeacoffee.com/pavankunchala)
+             
+            ''')
+
 
