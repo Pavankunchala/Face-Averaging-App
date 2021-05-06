@@ -1,5 +1,0 @@
-opencv_python_headless
-numpy
-streamlit
-dlib
-Pillow
