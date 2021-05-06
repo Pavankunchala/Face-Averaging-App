@@ -118,10 +118,10 @@ def averager(names):
 
 st.title('Face Averaging')
 st.text('Make sure you have a folder with atleast 3-6 images')
-filename = st.text_input('Enter the Folder path:')
+filename = st.text_input('Enter the Folder path:',value = 'images')
 
 if filename == None:
-    filename = 'images'
+    filename = 'Images'
 
 
 names = readImagePaths(filename)
